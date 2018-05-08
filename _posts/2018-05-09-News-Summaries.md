@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Daily news"
+date: 2018-05-08
+---
+
+## The **Leveraged-loan** market expands to $1tn  
+Since 2010, the [leveraged-loan](https://www.nasdaq.com/investing/glossary/l/leveraged-loan) has doubled in size from $500bn while US high-yield has expanded from $250bn to $1.1tn. The interest rate of the leveraged loan adjust higher as the Federal Reserve tightens policy. A higher percentage of the capital raised goes towards LBOs [leveraged buyouts] and aquisitions than was the case in 2010. The growth of the leverage loan is one of the drivers of the boom of M&A.
+
+However, there are potential risks: As the lenders are hunting for the yield, they ignore the wekening terms of [convenants](https://www.nasdaq.com/investing/glossary/l/leveraged-loan) which increases the correponding credit risk. Moreover, as more companies pay off thier junk bonds via loans, the bond inverstors face the prospect of being exposed to greater losses in the next credit downturn.
+
+The main source of the leveraged-loan i the pools of capital run by private equity firms and other asset managers.
+## Crude oil price has pushed above $70
+The curde oil price surpasses $70 for the first time in more than 3 years as fears have grown over suppliers from Iran and Venezuela. WTI reached $70.84, while Brent reached a three-and-a-half year high of more than $76. 
+
+Robust demand propelled by solid economic growth, along with cuts in output co-ordinated by the OPEC cartel, have cut curplus oil stocks and left the oil market 
+more sensitive to shocks. Today, Trump withdraws U.S. from Iran nuclear deal, which means it will impose sactions on Iran. This would put more pressure on the the oil supply. Currently, Iran will produce 4m barrel a day. The possible sanctions could cut the oil output by 200,000 to 300,000 barels a day. 
+
+## Air France hit by rising oil price and strong union.
+
+The CEO of Air France resigned after losing a vote over pay that amied to end a series of damaging strikes. The french government also rejected to bailout the company. The stock price fell 10% yesterday. Unions, led by the pilots' lobby, had wanted a large upfront percentage and no conditions on further raises.
+
