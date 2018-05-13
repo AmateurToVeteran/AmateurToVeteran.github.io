@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Oil Market part 1"
+date: 2018-05-12
+---
+
 ## The drivers of the oil price
 
 Like other products, the price of Crude oil is driven by supply and demand. 
